@@ -14,4 +14,4 @@ data=1 -> same application of the data=0, but in this case the number is encoded
 data=2 -> the dataset is about medical details regarding some patients, used to classify them as probably having some hart disease or not.
 More info: https://www.kaggle.com/ronitf/heart-disease-uci
 
-data=3 -> this is the well known MNIST dataset containing the handwritten digits. In order to make faster the code, the dataset has been preprocessed (the typical normalization and the one-hot-encoding of the label, and transformed in a list of pairs), and saved in a numpy array.
+data=3 -> this is the well known MNIST dataset containing the handwritten digits. In order to make faster the code, the dataset has been preprocessed (the typical normalization and the one-hot-encoding of the label, and transformed in a list of pairs), and saved in a numpy array. I only uploaded a really small version of the dataset (1000 samples). To do more exahustive experiments you need to download the dataset and process it.
