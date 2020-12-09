@@ -1,4 +1,4 @@
-# Neural-Network-using-just-numpy
+# Neural-Network-Numpy
 This repo contains 3 independent codes: NN1, NN2, NN3. Where NN1 is the most basic version. NN2 has an implementation of the L2 regularization technique (controlled by the parameter "lmbda"). NN3 has an implementation of the momentum technique (controlled by the parameter "mu").
 
 More info:
